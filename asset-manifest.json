@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weeks-calendar/static/css/main.20b22a5f.css",
+    "main.js": "/weeks-calendar/static/js/main.332502ee.js",
+    "index.html": "/weeks-calendar/index.html",
+    "main.20b22a5f.css.map": "/weeks-calendar/static/css/main.20b22a5f.css.map",
+    "main.332502ee.js.map": "/weeks-calendar/static/js/main.332502ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b22a5f.css",
+    "static/js/main.332502ee.js"
+  ]
+}
